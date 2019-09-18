@@ -6,7 +6,7 @@ MMC_cantilever和MMC_Lshape函数是分别是两个算例的求解函数，FUNCT
 
 pso.m运行可以得到论文中的结果，对应不同算例需要改变pso.m中对应的求解函数以及model，这里求解函数指MMC_cantilever.m和MMC_Lshape.m，model是图像分类模块的模型。
 
-pkl文件是利用机器学习训练好的模型，文件名末尾为ET的对应是cantilever算例的模型。末尾是ET-l的是Lshape算例的模型。
+pkl文件是利用机器学习训练好的模型,用于图像识别，文件名末尾为ET的对应是cantilever算例的模型。末尾是ET-l的是Lshape算例的模型。
 
 Lshape和cantilever-beam压缩包是机器学习的训练数据
 ## 各个代码的意思
@@ -22,7 +22,7 @@ Lshape和cantilever-beam压缩包是机器学习的训练数据
 
 ### 不需要更改的代码
 * *BasicKe.m*
-* *Heaviside.m*
+* *Heaviside.m*:符号函数
 * *tPhi.m*
 * *tvoid.m*
 * *variables.m*
