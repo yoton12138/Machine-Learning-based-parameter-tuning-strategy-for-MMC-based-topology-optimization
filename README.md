@@ -31,6 +31,6 @@ Lshape和cantilever-beam压缩包是机器学习的训练数据
 * *afterProcessing.m* <br>
   程序自动运行结束后，会保存一个all.mat的文件，直接运行此代码可以将迭代过程中的粒子最优解pbest以及迭代顺序的全局最优解gbest等关键的程序结果提取出来。
 ## 程序结果
-  ![算例1悬臂梁的优化结果](img/悬臂梁的优化结果.png)
+  ![算例1悬臂梁的优化结果](https://github.com/yoton12138/Machine-Learning-based-parameter-tuning-strategy-for-MMC-based-topology-optimization/blob/master/img/%E6%82%AC%E8%87%82%E6%A2%81%E4%BC%98%E5%8C%96%E7%BB%93%E6%9E%9C.png)
 
 
