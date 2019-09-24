@@ -1,5 +1,5 @@
 # Machine-Learning-based-parameter-tuning-strategy-for-MMC-based-topology-optimization
-_all code for this study in MMC-master.zip_
+_all code for this study 
 
 ## 简单介绍
 MMC_cantilever和MMC_Lshape函数是分别是两个算例的求解函数，FUNCTION文件夹是子函数。
@@ -33,4 +33,6 @@ Lshape和cantilever-beam压缩包是机器学习的训练数据
 ## 程序结果
 * 算例1 悬臂梁的优化结果
   ![算例1悬臂梁的优化结果](https://github.com/yoton12138/Machine-Learning-based-parameter-tuning-strategy-for-MMC-based-topology-optimization/blob/master/img/%E6%82%AC%E8%87%82%E6%A2%81%E4%BC%98%E5%8C%96%E7%BB%93%E6%9E%9C.png)
+* 算例2 L型梁的优化结果 
+  ![算例2L梁的优化结果]（https://github.com/yoton12138/Machine-Learning-based-parameter-tuning-strategy-for-MMC-based-topology-optimization/blob/master/img/L%E5%9E%8B%E6%A2%81%E4%BC%98%E5%8C%96%E7%BB%93%E6%9E%9C.jpg）
 
