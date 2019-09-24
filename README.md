@@ -1,5 +1,5 @@
 # Machine-Learning-based-parameter-tuning-strategy-for-MMC-based-topology-optimization
-_all code for this study 
+_all of the code for this study 
 
 ## 简单介绍
 MMC_cantilever和MMC_Lshape函数是分别是两个算例的求解函数，FUNCTION文件夹是子函数。
