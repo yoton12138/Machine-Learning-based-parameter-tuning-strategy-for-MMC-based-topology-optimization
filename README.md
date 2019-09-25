@@ -9,6 +9,11 @@ pso.m运行可以得到论文中的结果，对应不同算例需要改变pso.m�
 pkl文件是利用机器学习训练好的模型,用于图像识别，文件名末尾为ET的对应是cantilever算例的模型。末尾是ET-l的是Lshape算例的模型。
 
 Lshape和cantilever-beam压缩包是机器学习的训练数据
+
+* `完整运行代码需要安装scilit-learning 0.23.0版本`<br>
+* `opencv 包含SIFT算法的全功能opencv，附件给出了安装方式`
+
+
 ## 各个代码的意思
 ### 需要更改路径的代码
 * *PSO.m <br>*
